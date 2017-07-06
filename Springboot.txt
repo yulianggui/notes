@@ -3,7 +3,7 @@ http://www.cnblogs.com/yangcb/p/5632051.html
 http://blog.csdn.net/cool__wang/article/details/49466609
 http://blog.csdn.net/xiaoyu411502/article/details/47864969
 
-#博客（初级搭建）
+#博客（初级搭建）一到六章修改
 http://blog.csdn.net/woniu211111/article/category/6667260  
 
 #配置配置信息
