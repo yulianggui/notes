@@ -3,17 +3,17 @@ http://www.cnblogs.com/yangcb/p/5632051.html
 http://blog.csdn.net/cool__wang/article/details/49466609
 http://blog.csdn.net/xiaoyu411502/article/details/47864969
 
-#博客（初级搭建）一到六章修改
+#博客（初级搭建）
 http://blog.csdn.net/woniu211111/article/category/6667260  
 
-#配置配置信息
+#属性文件配置信息，修改springboot默认配置
 http://blog.csdn.net/u011955252/article/details/53290687  
 
 
 #日志信息log4j2
 http://blog.csdn.net/lu8000/article/details/25754415   
 http://www.cnblogs.com/hanfight/p/5721855.html
-http://blog.csdn.net/autfish/article/details/51203709     //比较详细
+http://blog.csdn.net/autfish/article/details/51203709  //详细
 
 #日志信息logback
 http://www.cnblogs.com/sky230/p/6420208.html  
@@ -21,5 +21,5 @@ http://www.cnblogs.com/sky230/p/6420208.html
 #spring clound 配置文件
 https://www.springcloud.cc/
 
-#spring congifg配置，远程配置文件
+#spring congifg配置，远程配置文件  新增修改
 http://www.cnblogs.com/skyblog/p/5129603.html
