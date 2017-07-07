@@ -1,0 +1,7 @@
+#Eclipse 安装 Maven 插件
+http://blog.csdn.net/guanning0109/article/details/26069277
+
+#1、Eclipse 插件：
+http://m2eclipse.sonatype.org/sites/m2e
+
+#2、link的方式
