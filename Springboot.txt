@@ -17,9 +17,53 @@ http://blog.csdn.net/autfish/article/details/51203709  //详细
 
 #日志信息logback
 http://www.cnblogs.com/sky230/p/6420208.html  
+http://blog.csdn.net/xiaoyu411502/article/details/48295973
+#Spring Boot提供的默认日志配置：logback
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    <logger name="org.springframework.web" level="DEBUG"/>
+</configuration>
+
 
 #spring clound 配置文件
 https://www.springcloud.cc/
 
 #spring congifg配置，远程配置文件  新增修改
 http://www.cnblogs.com/skyblog/p/5129603.html
+
+#乱码问题
+https://www.huangyunkun.com/2016/11/05/spring-boot-encoding-with-utf8/
+http://www.cnblogs.com/woms/p/5754200.html
+http://blog.csdn.net/walkerjong/article/details/7946109    接收参数的注解
+
+
+#注解（@Controller,@Service,@Repository）
+http://www.cnblogs.com/woms/p/5754200.html
+http://blog.csdn.net/kobejayandy/article/details/12690555
+
+@RestController：相当于@Controller和@ResponseBody(Spring 返回一个字符串或者JSON)
+和
+@RequestMapping：http请求 Spring路由功能
+
+@EnableAutoConfiguration注解：这个注解告诉Spring Boot根据添加的jar依赖猜测你想如何配置Spring
+
+@Configuration：等价 与XML中配置beans；用@Bean标注方法等价于XML中配置bean
+
+@ComponentScan：组件扫描，Spring Beans组件
+
+@SpringBootApplication：包含上面3个
+
+@PathVariable：路径上的变量    /user/{userName}/   
+处理requet uri 部分（这里指uri template中variable，不含queryString部分）的注解：   
+
+@RequestBody：http  body里面
+
+@RequestParam：url追加的参数
+
+处理request body部分的注解： @RequestBody;
+
+处理request header部分的注解：   @RequestHeader, @CookieValue;
+
+处理attribute类型是注解： @SessionAttributes, @ModelAttribute;
+
+@Value：配置文件中找
