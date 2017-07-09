@@ -5,3 +5,12 @@ http://blog.csdn.net/guanning0109/article/details/26069277
 http://m2eclipse.sonatype.org/sites/m2e
 
 #2、link的方式
+
+#Maven创建之后，自动设置包的结构 /src/main/
+http://blog.csdn.net/smilevt/article/details/8215558
+
+#war包的形式采用webapp
+http://blog.sina.com.cn/s/blog_7098c31a01019jds.html
+
+#Maven创建多模块工程
+http://ju.outofmemory.cn/entry/75620
