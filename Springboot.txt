@@ -18,6 +18,9 @@ http://blog.csdn.net/autfish/article/details/51203709  //详细
 #日志信息logback
 http://www.cnblogs.com/sky230/p/6420208.html  
 http://blog.csdn.net/xiaoyu411502/article/details/48295973
+http://www.cnblogs.com/lixuwu/p/5804793.html
+https://my.oschina.net/wangnian/blog/708203
+logback.xml,logback-spring.xml
 #Spring Boot提供的默认日志配置：logback
 <configuration>
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
@@ -67,3 +70,12 @@ http://blog.csdn.net/kobejayandy/article/details/12690555
 处理attribute类型是注解： @SessionAttributes, @ModelAttribute;
 
 @Value：配置文件中找
+
+
+#Spring boot 整合Mybitis
+http://www.jb51.net/article/91800.htm
+http://www.cnblogs.com/zhuxiaojie/p/5836159.html
+http://blog.csdn.net/yuchao2015/article/details/53117239    //比较经典
+https://zhuanlan.zhihu.com/p/25959187  //知乎
+http://blog.csdn.net/manmanxiaohui/article/details/51883199   //配置xml的格式
+http://www.oschina.net/question/1435284_237866
